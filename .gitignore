@@ -1,0 +1,9 @@
+# Ignore env & secrets
+.env
+
+# Ignore vector DB / cache
+chroma_db/
+
+# Ignore Python artifacts
+__pycache__/
+*.pyc
